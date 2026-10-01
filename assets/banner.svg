@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ph | Desenvolvimento web e Java</title>
+  <desc id="desc">Banner em carvão e amarelo, com o nome Ph e um símbolo de código.</desc>
+  <rect width="1200" height="340" rx="18" fill="#1F2227"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="44" y="83" font-size="17" font-weight="600" letter-spacing="3" fill="#D0B537">PHMFG / GITHUB</text>
+    <text x="40" y="184" font-size="92" font-weight="750" letter-spacing="-4" fill="#F4F5F6">Ph<tspan fill="#D0B537">.</tspan></text>
+    <text x="44" y="237" font-size="29" font-weight="500" fill="#F4F5F6">Desenvolvimento web e Java</text>
+    <text x="44" y="280" font-size="19" fill="#C7CDD4">Ciência da Computação</text>
+  </g>
+  <g fill="none" stroke="#D0B537" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M922 115L872 165L922 215M1034 115L1084 165L1034 215M1000 99L956 231"/>
+  </g>
+</svg>
